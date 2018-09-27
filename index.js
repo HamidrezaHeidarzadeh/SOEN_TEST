@@ -1,3 +1,6 @@
+var user1 = function(user){
+
+};
 console.log("Line One Added");
 console.log("user 2");
 console.log("Conflict Line user1");
