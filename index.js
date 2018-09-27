@@ -1,5 +1,5 @@
-var user1 = function(user){
-
+var user1 = function(user1){
+    console.log('user1');
 };
 console.log("Line One Added");
 console.log("user 2");
